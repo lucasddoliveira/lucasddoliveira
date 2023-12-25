@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **lucasddoliveira1@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28](https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28)
+- 📄 Know about my experiences: https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
