@@ -6,7 +6,7 @@
 </div>
 
 <div style="pointer-events: none;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
 </div>
 
 - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
