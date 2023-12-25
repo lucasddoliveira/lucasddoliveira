@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Dantas</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- I’m currently studying Electrical Engineering. Interested in IoT, Data Science, and Artificial Intelligence topics.  
+- 🔭 I’m currently studying Electrical Engineering. Interested in IoT, Data Science, and Artificial Intelligence topics.  
 
 - 👯 Currently, I’m looking to collaborate on **a Soft Sensor using Aritifical Intelligence**:
 
