@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Lucas Dantas</h1>
 <h3 align="center">An enthusiastic developer from Brazil</h3>
 
 <div style="pointer-events: none;">
