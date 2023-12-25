@@ -4,13 +4,21 @@
     <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8c662dd1eca5677e66af291502cdde7c304a3f74834f1d24988823c8ddbb577d/68747470733a2f2f692e63687a6267722e636f6d2f66756c6c2f373736343531313233322f6842414344414539432f73696d6f6e732d636174">
 </div>
 
-- 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
+<p style="text-align: justify;">
+    - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
+</p>
 
-- 👯 Currently, I’m looking to collaborate on **a Soft Sensor using Aritifical Intelligence**:
+<p style="text-align: justify;">
+    - 👯 Currently, I’m looking to collaborate on **a Soft Sensor using Artificial Intelligence**:
+</p>
 
-- 📫 How to reach me: **lucasddoliveira1@gmail.com**
+<p style="text-align: justify;">
+    - 📫 How to reach me: **lucasddoliveira1@gmail.com**
+</p>
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing
+<p style="text-align: justify;">
+    - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing">Resume</a>
+</p>
 
 <h1 align="right">
     <a href="#" style="pointer-events: none;">
