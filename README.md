@@ -12,7 +12,7 @@
 - 📫 How to reach me: **lucasddoliveira1@gmail.com**
 
 <div style="pointer-events: none;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
+    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
 </div>
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing
