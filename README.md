@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Dantas</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 👯 I’m looking to collaborate on **a Soft Sensor using Aritifical Intelligence**
+- 👯 I’m looking to collaborate on **a Soft Sensor using Aritifical Intelligence**:
 
-- 📫 How to reach me **lucasddoliveira1@gmail.com**
+- 📫 How to reach me: **lucasddoliveira1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28](https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28)
+- 📄 Know about my experiences: [https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28](https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
