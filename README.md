@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic developer from Brazil</h3>
 
 <div style="pointer-events: none;">
-    <img align="right" alt="Coding" width="30%" src="https://camo.githubusercontent.com/8c662dd1eca5677e66af291502cdde7c304a3f74834f1d24988823c8ddbb577d/68747470733a2f2f692e63687a6267722e636f6d2f66756c6c2f373736343531313233322f6842414344414539432f73696d6f6e732d636174">
+    <img align="right" alt="Coding" width="35%" src="https://camo.githubusercontent.com/8c662dd1eca5677e66af291502cdde7c304a3f74834f1d24988823c8ddbb577d/68747470733a2f2f692e63687a6267722e636f6d2f66756c6c2f373736343531313233322f6842414344414539432f73696d6f6e732d636174">
 </div>
 
 - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
@@ -12,7 +12,7 @@
 - 📫 How to reach me: **lucasddoliveira1@gmail.com**
 
 <div style="pointer-events: none;">
-    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
+    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
 </div>
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing
@@ -59,9 +59,6 @@
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
