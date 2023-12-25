@@ -11,17 +11,18 @@
 - 📫 How to reach me: **lucasddoliveira1@gmail.com**
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing
-<h1 align="right">
-    <a href="#" style="pointer-events: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
-    </a>
-</h1>
 
 <h3 align="left">You can also find me on:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/lucas-dantas-de-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasddoliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasddoliveira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasddoliveira_" height="30" width="40" /></a>
 </p>
+<h1 align="right">
+    <a href="#" style="pointer-events: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
+    </a>
+</h1>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
