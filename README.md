@@ -82,4 +82,4 @@
 </p>
 
 
-<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/></h1>
+<h1 align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/></h1>
