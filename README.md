@@ -78,6 +78,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
-<j align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=true&locale=en&layout=compact" alt="lucasddoliveira" />
-</j>
+
+<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=true&locale=en&layout=compact" alt="lucasddoliveira"/></h1>
