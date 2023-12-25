@@ -1,6 +1,8 @@
 <h3 align="center">An enthusiastic developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8c662dd1eca5677e66af291502cdde7c304a3f74834f1d24988823c8ddbb577d/68747470733a2f2f692e63687a6267722e636f6d2f66756c6c2f373736343531313233322f6842414344414539432f73696d6f6e732d636174">
+<div style="pointer-events: none;">
+    <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8c662dd1eca5677e66af291502cdde7c304a3f74834f1d24988823c8ddbb577d/68747470733a2f2f692e63687a6267722e636f6d2f66756c6c2f373736343531313233322f6842414344414539432f73696d6f6e732d636174">
+</div>
 
 <h1 align="right">
     <a href="#" style="pointer-events: none;">
