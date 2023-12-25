@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Dantas</h1>
 <h3 align="center">An enthusiastic developer from Brazil</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
+
 - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
 
 - 👯 Currently, I’m looking to collaborate on **a Soft Sensor using Aritifical Intelligence**:
