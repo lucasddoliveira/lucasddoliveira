@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Dantas</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">An enthusiastic developer from Brazil</h3>
 
 - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
 
