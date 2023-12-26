@@ -9,7 +9,7 @@
 
 - 👯 Currently, I’m looking to collaborate on **<a href="https://github.com/lucasddoliveira/Soft-Sensor-AI">a Soft Sensor using Aritifical Intelligence</a>**.
 
-- 📫 How to reach me: **lucasddoliveira1@gmail.com**
+- 📫 How to reach me: **lucasddoliveira1@gmail.com**.
 
 <div style="pointer-events: none;">
     <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
