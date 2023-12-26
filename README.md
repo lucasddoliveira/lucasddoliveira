@@ -7,7 +7,7 @@
 
 - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
 
-- 👯 Currently, I’m looking to collaborate on **<a href="https://github.com/lucasddoliveira/Soft-Sensor-AI">a Soft Sensor using Aritifical Intelligence</a>**.
+- 👯 Currently, I’m looking to collaborate on a **<a href="https://github.com/lucasddoliveira/Soft-Sensor-AI">Soft Sensor using Aritifical Intelligence</a>**.
 
 - 📫 How to reach me: **lucasddoliveira1@gmail.com**.
 
