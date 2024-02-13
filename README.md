@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic developer from Brazil</h3>
 
 <div style="pointer-events: none;">
-    <img align="right" alt="Coding" width="30%" src="https://camo.githubusercontent.com/8c662dd1eca5677e66af291502cdde7c304a3f74834f1d24988823c8ddbb577d/68747470733a2f2f692e63687a6267722e636f6d2f66756c6c2f373736343531313233322f6842414344414539432f73696d6f6e732d636174">
+    <img align="right" alt="Coding" width="30%" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 </div>
 
 - 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
