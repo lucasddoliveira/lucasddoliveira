@@ -5,19 +5,22 @@
     <img align="right" alt="Coding" width="15%" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 </div>
 
-- 🔭 I’m an Electrical Engineering student turned **Full-Stack Developer**, focused on building robust and scalable web applications. I bring a problem-solving mindset from my engineering background into software development.
+- 🔭 I'm an Electrical Engineering student turned **Full-Stack Developer**, dedicated to building robust and scalable web applications. My engineering background gives me a unique, problem-solving approach to software development.
 
-- 👨‍💻 I love working with **Node.js**, **Express**, **React**, and **Python** (Flask or Django) to create end-to-end solutions — from backend APIs to intuitive user interfaces.
+- 👨‍💻 I work with **Node.js**, **Express**, **React**, and **Python** (Flask/Django) to build end-to-end solutions — from back-end APIs to intuitive user interfaces.
 
-- 🌱 Currently, I’m learning more about **cloud deployment** (Docker, AWS) to deliver reliable and efficient services.
+- 🌱 Currently, I'm diving deeper into **AI Agents** and **engineering principles**.
 
-- 👯 I’m open to collaborating on **web-based projects**, **REST APIs**, or **microservices** that involve data processing or real-time communication.
+- 👯 I'm open to collaborating on **web/mobile-based projects**, **REST APIs**, or **microservices** involving data processing or real-time communication.
 
-- 🚀 Check out my latest project: **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)** — where I apply AI concepts for predictive analytics and backend pipelines.
+- 🚀 Check out my latest projects:
+  - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)**: Applying AI for predictive analytics and robust backend pipelines.  
+  - **[Task Improver](https://github.com/lucasddoliveira/TextImprover)**: A React-based frontend offering 99 AI-driven tools, powered by Node.js, MongoDB, and AWS.
 
-- 📄 More about my background and experiences in my [Resume](https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing)
+- 📄 Learn more about my background and experiences in my [Resume](https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing).
 
-- 📫 Get in touch: **lucasddoliveira1@gmail.com**
+- 📫 **Get in touch**: lucasddoliveira1@gmail.com
+
 
 <h3 align="left">You can also find me on:</h3>
 <p align="left">
