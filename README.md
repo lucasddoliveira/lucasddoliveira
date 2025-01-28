@@ -9,13 +9,14 @@
 
 - 👨‍💻 I work with **Node.js**, **Express**, **React**, and **Python** (Flask/Django) to build end-to-end solutions — from back-end APIs to intuitive user interfaces.
 
-- 🌱 Currently, I'm diving deeper into **AI Agents** and **engineering principles**.
+- 🌱 Currently, I'm diving deeper into **AI Agents**.
 
 - 👯 I'm open to collaborating on **web/mobile-based projects**, **REST APIs**, or **microservices** involving data processing or real-time communication.
 
 - 🚀 Check out my latest projects:
-  - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)**: Applying AI for predictive analytics and robust backend pipelines.  
   - **[Task Improver](https://github.com/lucasddoliveira/TextImprover)**: A React-based frontend offering 99 AI-driven tools, powered by Node.js, MongoDB, and AWS.
+  - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)**: Applying AI for predictive analytics and robust backend pipelines.  
+  
 
 - 📄 Learn more about my background and experiences in my [Resume](https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing).
 
