@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Lucas Dantas</h1>
-<h3 align="center">An enthusiastic developer from Brazil</h3>
+<h3 align="center">Full-Stack Developer from Brazil</h3>
 
 <div style="pointer-events: none;">
     <img align="right" alt="Coding" width="15%" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 </div>
 
-- 🔭 I am an Electrical Engineering student with a strong passion for programming, aiming to explore and contribute to groundbreaking projects. As a technology enthusiast, I am continually seeking opportunities for learning and growth within the realm of software development.
+- 🔭 I’m an Electrical Engineering student turned **Full-Stack Developer**, focused on building robust and scalable web applications. I bring a problem-solving mindset from my engineering background into software development.
 
-- 👯 Currently, I’m looking to collaborate on a **<a href="https://github.com/lucasddoliveira/Soft-Sensor-AI">Soft Sensor using Aritifical Intelligence</a>**.
+- 👨‍💻 I love working with **Node.js**, **Express**, **React**, and **Python** (Flask or Django) to create end-to-end solutions — from backend APIs to intuitive user interfaces.
 
-- 📫 How to reach me: **lucasddoliveira1@gmail.com**.
+- 🌱 Currently, I’m learning more about **cloud deployment** (Docker, AWS) to deliver reliable and efficient services.
 
-<div style="pointer-events: none;">
-    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasddoliveira&show_icons=false&locale=en&layout=compact&theme=radical" alt="Lucas Dantas most used languages"/>
-</div>
+- 👯 I’m open to collaborating on **web-based projects**, **REST APIs**, or **microservices** that involve data processing or real-time communication.
 
-- 📄 Know about my **<a href="https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing">experiences</a>**.
+- 🚀 Check out my latest project: **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)** — where I apply AI concepts for predictive analytics and backend pipelines.
+
+- 📄 More about my background and experiences in my [Resume](https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing)
+
+- 📫 Get in touch: **lucasddoliveira1@gmail.com**
 
 <h3 align="left">You can also find me on:</h3>
 <p align="left">
