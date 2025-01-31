@@ -14,7 +14,7 @@
 - 👯 I'm open to collaborating on **web/mobile-based projects**, **REST APIs**, or **microservices** involving data processing or real-time communication.
 
 - 🚀 Check out my latest projects:
-  - **[Task Improver](https://github.com/lucasddoliveira/TextImprover)**: A React-based frontend offering 99 AI-driven tools, powered by Node.js, MongoDB, and AWS.
+  - **[Task Improver](https://taskimprover.io)**: A React-based frontend offering 99 AI-driven tools, powered by Node.js, MongoDB, and AWS.
   - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)**: Applying AI for predictive analytics and robust backend pipelines.  
   
 
