@@ -5,7 +5,7 @@
     <img align="right" alt="Coding" width="15%" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 </div>
 
-- 🔭 I'm an Electrical Engineering student turned **Full-Stack Developer**, dedicated to building robust and scalable web applications. My engineering background gives me a unique, problem-solving approach to software development.
+- 🔭 I'm a **Full-Stack Developer**, dedicated to building robust and scalable web applications. My engineering background gives me a unique, problem-solving approach to software development.
 
 - 👨‍💻 I work with **Node.js**, **Express**, **React**, and **Python** (Flask/Django) to build end-to-end solutions — from back-end APIs to intuitive user interfaces.
 
