@@ -18,7 +18,7 @@
   - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)**: Applying AI for predictive analytics and robust backend pipelines.  
   
 
-- 📄 Learn more about my background and experiences in my [Resume](https://drive.google.com/file/d/1r5I42l83Y0cOfyXGHvMoNvjfzp5PWl57/view?usp=sharing).
+- 📄 Learn more about my background and experiences in my [Resume](https://drive.google.com/drive/u/0/folders/12s2-55MeqNIoNTOT980dfc6MwWZ-5y28).
 
 - 📫 **Get in touch**: lucasddoliveira1@gmail.com
 
