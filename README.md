@@ -14,6 +14,7 @@
 - 👯 I'm open to collaborating on **web/mobile-based projects**, **REST APIs**, or **microservices** involving data processing or real-time communication.
 
 - 🚀 Check out my latest projects:
+  - **[DrawUFPB.io](https://github.com/lucasddoliveira/DrawUFPB.io)**: A integrated system that combines artificial intelligence, image processing, and robotics to create physical drawings using a robotic arm.     
   - **[Task Improver](https://taskimprover.io)**: A React-based frontend offering 99 AI-driven tools, powered by Node.js, MongoDB, and AWS.
   - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)**: Applying AI for predictive analytics and robust backend pipelines.  
   
