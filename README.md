@@ -20,8 +20,6 @@
   - **[Task Improver](https://taskimprover.io)** — React + TypeScript frontend offering **99 AI-driven tools**, powered by Node.js, MongoDB, and AWS.  
   - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)** — AI for predictive analytics, modeling, and robust data pipelines.  
 
-- 📄 Learn more about my background in my [Resume](https://drive.google.com/file/d/11gogNm3tBIn4VPET1-FCX02PHxg7TchG/view?usp=sharing).
-
 - 📫 **Get in touch:** lucasddoliveira1@gmail.com
 
 
