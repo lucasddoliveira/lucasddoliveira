@@ -17,7 +17,6 @@
 
 - 🚀 Check out my latest projects:
   - **[DrawUFPB.io](https://github.com/lucasddoliveira/DrawUFPB.io)** — Integrated system that combines AI, computer vision, and robotics to create physical drawings using a robotic arm.  
-  - **[Task Improver](https://taskimprover.io)** — React + TypeScript frontend offering **99 AI-driven tools**, powered by Node.js, MongoDB, and AWS.  
   - **[Soft Sensor AI](https://github.com/lucasddoliveira/Soft-Sensor-AI)** — AI for predictive analytics, modeling, and robust data pipelines.  
 
 - 📫 **Get in touch:** lucasddoliveira1@gmail.com
